@@ -1,4 +1,4 @@
--- Data Cleaning 
+-- Data Cleaning USING SQL
 
 select * 
 from layoffs_staging;
